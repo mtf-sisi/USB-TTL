@@ -1,0 +1,15 @@
+### Footprint positions - created on Tue Aug 22 22:15:04 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val         Package                                       PosX       PosY       Rot  Side
+C2        104         C_0201_0603Metric                         182.2450   -82.5500  180.0000  top
+C3        104         C_0201_0603Metric                         182.2450   -89.0270  180.0000  top
+D1        LED         LED_0201_0603Metric                       184.9120   -84.9630   90.0000  top
+D2        LED         LED_0201_0603Metric                       184.9120   -86.8680  -90.0000  top
+J1        USB_A       USB_A_CNCTech_1001-011-01101_Horizontal   161.6710   -84.5820  180.0000  top
+J2        Conn_01x05  PinHeader_1x05_P2.54mm_Horizontal         189.0460   -79.1260    0.0000  top
+R1        4.7K        R_0201_0603Metric                         184.9120   -88.3920   90.0000  top
+R2        4.7K        R_0201_0603Metric                         184.9120   -83.4030  -90.0000  top
+U1        CH330N      SOIC-8_3.9x4.9mm_P1.27mm                  180.0860   -85.8520    0.0000  top
+## End
